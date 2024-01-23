@@ -2,13 +2,15 @@
 
 ** summary
 
-This is a description of project itscorn.
+Go interfaces still confuse me.
+
+This project is me fiddling with them in attempts to learn through
+osmosis.
 
 ** usage
 
 Example:
 #+begin_example
-make test
-./itscorn --help
-./itscorn --verbose --verbose # for debug
+make
+./itscorn
 #+end_example
