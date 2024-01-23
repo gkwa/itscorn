@@ -1,0 +1,14 @@
+* itscorn
+
+** summary
+
+This is a description of project itscorn.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./itscorn --help
+./itscorn --verbose --verbose # for debug
+#+end_example
