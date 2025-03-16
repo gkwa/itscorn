@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/spf13/afero v1.13.0
+	github.com/spf13/afero v1.14.0
 	github.com/taylormonacelli/littlecow v0.0.5
 )
 
