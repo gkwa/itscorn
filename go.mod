@@ -2,7 +2,7 @@ module github.com/taylormonacelli/itscorn
 
 go 1.23.0
 
-toolchain go1.27.1
+toolchain go1.27.2
 
 require (
 	github.com/jessevdk/go-flags v1.6.1
